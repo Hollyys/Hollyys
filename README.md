@@ -21,11 +21,8 @@ SECUDAIM R&D Center (2024.08~)
 <img src="https://img.shields.io/badge/ros-%2322314E.svg?&style=for-the-badge&logo=ros&logoColor=white" />
 <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
 
+<br/><br/><br/><br/><br/><br/>
 
-
-
-
-  
 <img src="https://img.shields.io/badge/ferrari-%23D40000.svg?&style=for-the-badge&logo=ferrari&logoColor=white" /></t>
 <img src="https://img.shields.io/badge/maserati-%230C2340.svg?&style=for-the-badge&logo=maserati&logoColor=white" />
 <img src="https://img.shields.io/badge/ieee-%2300629B.svg?&style=for-the-badge&logo=ieee&logoColor=white" />
