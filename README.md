@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hollyys&fontSize=90)
-## Hi there 👋  This is Sunghan Shin
+## Hi there 👋  This is Sunghan Shin's <img src="https://img.shields.io/badge/github-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
 ###
 ![Hollyys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hollyys&show_icons=true&theme=radical)
 
@@ -12,8 +12,32 @@ SECUDAIM R&D Center (2024.08~)
 
 ### 🛠 Languages and Tools
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> </t>
+<img src="https://img.shields.io/badge/c-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/C-FCC624?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/flask-%23000000.svg?&style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/ros-%2322314E.svg?&style=for-the-badge&logo=ros&logoColor=white" />
+<img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white" />
+
+
+<img src="https://img.shields.io/badge/ferrari-%23D40000.svg?&style=for-the-badge&logo=ferrari&logoColor=white" /></t>
+<img src="https://img.shields.io/badge/ieee-%2300629B.svg?&style=for-the-badge&logo=ieee&logoColor=white" />
+<img src="https://img.shields.io/badge/bmw-%230066B1.svg?&style=for-the-badge&logo=bmw&logoColor=white" />
+<img src="https://img.shields.io/badge/hyundai-%23002C5F.svg?&style=for-the-badge&logo=hyundai&logoColor=white" />
+<img src="https://img.shields.io/badge/maserati-%230C2340.svg?&style=for-the-badge&logo=maserati&logoColor=white" />
+<img src="https://img.shields.io/badge/google-%234285F4.svg?&style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/google%20cloud-%234285F4.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/samsung-%231428A0.svg?&style=for-the-badge&logo=samsung&logoColor=white" />
+<img src="https://img.shields.io/badge/kia-%2305141F.svg?&style=for-the-badge&logo=kia&logoColor=white" />
+<img src="https://img.shields.io/badge/macos-%23000000.svg?&style=for-the-badge&logo=macos&logoColor=white" />
+<img src="https://img.shields.io/badge/ios-%23000000.svg?&style=for-the-badge&logo=ios&logoColor=white" />
+<img src="https://img.shields.io/badge/apple-%23000000.svg?&style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/porsche-%23B12B28.svg?&style=for-the-badge&logo=porsche&logoColor=white" />
+<img src="https://img.shields.io/badge/lamborghini-%23DDB320.svg?&style=for-the-badge&logo=lamborghini&logoColor=black" />
+<img src="https://img.shields.io/badge/audi-%23BB0A30.svg?&style=for-the-badge&logo=audi&logoColor=white" />
 <!--
 **Hollyys/Hollyys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
