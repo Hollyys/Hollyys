@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hollyys&fontSize=90)
 ## Hi there 👋  This is Sunghan Shin
 ###
-![Hollyys's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![Hollyys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hollyys&show_icons=true&theme=tokyonight)
 <!--
 **Hollyys/Hollyys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
