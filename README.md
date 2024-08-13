@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hollyys&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hollyys&fontSize=90)
 ## Hi there 👋  This is Sunghan Shin
 ###
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hollyys)](https://github.com/anuraghazra/github-readme-stats)
