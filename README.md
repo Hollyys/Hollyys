@@ -8,7 +8,7 @@
 ### 📫 Previously studied on..
 Kyungpook National University Computer Science (2017.03~)
 ### 🔭 Currently working on..
-SECUDAIM R&D Center (2024.08~)
+<img src="https://github.com/user-attachments/assets/187bcfff-d1b3-4d43-83f3-1a4cf1185eb7"  width="700" height="370"> SECUDAIM R&D Center (2024.08~)
 
 ### 🛠 Languages and Tools
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> </t>
