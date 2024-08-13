@@ -3,6 +3,9 @@
 ###
 ![Hollyys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hollyys&show_icons=true&theme=radical)
 
+### 🔭 Currently working on..
+<img src="http://secudaim.com/data/BI_LoKard_all.jpg&logo=Linux&logoColor=white"/> </t>
+
 <a href="https://github.com/Hollyys"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a>  
 
 ### 🛠 Languages and Tools
