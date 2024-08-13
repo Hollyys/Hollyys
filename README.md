@@ -3,10 +3,12 @@
 ###
 ![Hollyys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hollyys&show_icons=true&theme=radical)
 
+<a href="https://github.com/Hollyys"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a>  
+
+### 📫 Previously studied on..
+Kyungpook National University Computer Science (2017.03~)
 ### 🔭 Currently working on..
 SECUDAIM R&D Center (2024.08~)
-
-<a href="https://github.com/Hollyys"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a>  
 
 ### 🛠 Languages and Tools
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/> </t>
