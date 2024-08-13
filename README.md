@@ -6,7 +6,6 @@
 <a href="https://github.com/Hollyys"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a>  
 
 ### 🛠 Languages and Tools
-
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-FCC624?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
