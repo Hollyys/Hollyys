@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hollyys&fontSize=80&strokeWidth=1.5&desc=Hi%20there,%20👋%20This%20is%20Sunghan%20Shin.&descSize=35&descAlignY=85&fontColor=000000&stroke=ffffff&strokeWidth=1)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hollyys&fontSize=80&strokeWidth=1.5&desc=Hi%20there,%20👋%20This%20is%20Sunghan%20Shin.&descSize=35&descAlignY=85&fontColor=000000&stroke=ffffff&strokeWidth=0.5)
 
 ###
 
