@@ -2,7 +2,7 @@
 
 ###
 <div align="center">
-![Hollyys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hollyys&show_icons=true&theme=radical)
+[![Hollyys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hollyys&show_icons=true&theme=radical)]
 </div>
 
 <div align="center">
