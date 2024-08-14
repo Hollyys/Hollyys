@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hollyys&fontSize=80&strokeWidth=1.5&fontColor=000000&stroke=ffffff&strokeWidth=0.5)
 
-Hi there,👋 This is Sunghan Shin.
+<div align="center">
+# Hi there,👋 This is Sunghan Shin.
+</div>
 
 ###
 
