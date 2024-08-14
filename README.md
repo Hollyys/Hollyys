@@ -7,6 +7,8 @@
 
 <a href="https://github.com/Hollyys"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hollyys&layout=compact&theme=nord&hide_border=true" /></a>  
 
+<br/>
+
 ### 📫 Previously studied on..
 Kyungpook National University Computer Science (2017.03~)
 ### 🔭 Currently working on..
