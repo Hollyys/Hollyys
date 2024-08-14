@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hollyys&fontColor=C38EC7&fontSize=80&stroke=000000&strokeWidth=2&desc=Hi%20there,%20👋%20This%20is%20Sunghan%20Shin.&descSize=35&descAlignY=85)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hollyys&fontColor=FFF5EE&fontSize=80&stroke=000000&strokeWidth=2&desc=Hi%20there,%20👋%20This%20is%20Sunghan%20Shin.&descSize=35&descAlignY=85)
 ###
 ![Hollyys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hollyys&show_icons=true&theme=radical)
 
