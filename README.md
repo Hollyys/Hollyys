@@ -4,14 +4,13 @@
 
 <br/>
 
-![Hollyys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hollyys&show_icons=true&theme=radical)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hollyys&show_icons=true&theme=radical" alt="Hollyys's GitHub stats">
 </p>
 
-
-<a href="https://github.com/Hollyys"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hollyys&layout=compact&theme=nord&hide_border=true" /></a>  
+<p align="center">
+<a href="https://github.com/Hollyys"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hollyys&layout=compact&theme=nord&hide_border=true" /></a> 
+</p>
 
 <br/>
 
