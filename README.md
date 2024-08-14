@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hollyys&fontSize=80&strokeWidth=1.5&fontColor=000000&stroke=ffffff&strokeWidth=0.5)
 
-<p align="center">
-  <font size="100">Hi there,👋 This is Sunghan Shin.</font>
-</p>
-
-###
+# Hi there,👋 This is Sunghan Shin.
 
 ![Hollyys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hollyys&show_icons=true&theme=radical)
 
