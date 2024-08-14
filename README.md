@@ -1,8 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=Hollyys&fontSize=80&strokeWidth=1.5&desc=Hi%20there,%20👋%20This%20is%20Sunghan%20Shin.&descSize=35&descAlignY=85)
+
+<center>
 ###
 ![Hollyys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hollyys&show_icons=true&theme=radical)
+</center>
 
+<center>
 <a href="https://github.com/Hollyys"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hollyys&layout=compact&theme=nord&hide_border=true" /></a>  
+</center>
 
 ### 📫 Previously studied on..
 Kyungpook National University Computer Science (2017.03~)
