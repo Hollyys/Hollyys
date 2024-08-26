@@ -38,10 +38,7 @@ SECUDAIM R&D Center (2024.08~)
 <br/><br/><br/>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/159a32ec-2a2e-4fa1-b0f7-271638516c6d" width="600">
-</p>
-<p align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRxbThmMGN0c2VzdDZlamJncDQ5ZDBod204Nnc3Y3N0Z3B5eGtzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/35B8bxgscbXrDtQjqS/giphy.gif" width="600">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRxbThmMGN0c2VzdDZlamJncDQ5ZDBod204Nnc3Y3N0Z3B5eGtzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/35B8bxgscbXrDtQjqS/giphy.gif" width="800">
 </p>
 
 <br/>
