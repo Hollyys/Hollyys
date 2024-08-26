@@ -40,6 +40,7 @@ SECUDAIM R&D Center (2024.08~)
 <p align="center">
 <img src="https://github.com/user-attachments/assets/159a32ec-2a2e-4fa1-b0f7-271638516c6d">
 </p>
+<iframe src="https://giphy.com/embed/35B8bxgscbXrDtQjqS" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ARPAISLEY-ar-paisley-35B8bxgscbXrDtQjqS">via GIPHY</a></p>
 
 <br/>
 
