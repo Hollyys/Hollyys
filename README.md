@@ -38,7 +38,7 @@ SECUDAIM R&D Center (2024.08~)
 <br/><br/><br/>
 
 <p align="center">
-<img src="https://media1.tenor.com/m/mxbCDwTJd9sAAAAd/porsche-911-gt3-rs.gif">
+<img src="https://c.tenor.com/mxbCDwTJd9sAAAAd/tenor.gif">
 </p>
 
 <br/>
