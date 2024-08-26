@@ -38,7 +38,6 @@ SECUDAIM R&D Center (2024.08~)
 <br/><br/><br/>
 
 <p align="center">
-![tenor](https://github.com/user-attachments/assets/159a32ec-2a2e-4fa1-b0f7-271638516c6d)
 <img src="https://github.com/user-attachments/assets/159a32ec-2a2e-4fa1-b0f7-271638516c6d">
 </p>
 
